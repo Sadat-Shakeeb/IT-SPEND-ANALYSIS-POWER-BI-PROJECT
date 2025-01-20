@@ -1,13 +1,12 @@
 IT Spend Analysis Project
 
-Project Overview
+**Project Overview**
 This project aims to analyze how much money is spent on IT by companies. The analysis focuses on various aspects of IT expenditure, including the distribution across different departments, cost elements, and regions. The objective is to derive insights that can help in strategic decision-making and cost optimization.
 
-IT Spend Analysis Project
-Project Overview
+**Project Overview**
 This project aims to analyze how much money is spent on IT by companies. The analysis focuses on various aspects of IT expenditure, including the distribution across different departments, cost elements, and regions. The objective is to derive insights that can help in strategic decision-making and cost optimization.
 
-Introduction
+**Introduction**
 In the current technological landscape, understanding the distribution and magnitude of IT spending is crucial for companies to stay competitive. This project examines IT expenditure across various departments and regions, aiming to highlight key spending patterns and opportunities for optimization.
 
 Dataset
@@ -31,7 +30,8 @@ Scenario
 
 The dataset spans a specific period and covers multiple companies.
 
-Data Preprocessing
+
+**Data Preprocessing**
 The data preprocessing steps involve:
 
 Handling missing values
@@ -43,7 +43,9 @@ Aggregating data by relevant categories
 Creating derived metrics for analysis
 
 Analysis
-The key areas of analysis include:
+
+
+**The key areas of analysis include:**
 
 Yearly Trends: Examining how IT spending changes over time.
 
