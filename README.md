@@ -42,6 +42,8 @@ Aggregating data by relevant categories
 
 Creating derived metrics for analysis
 
+Data Modelling
+
 Analysis
 
 
